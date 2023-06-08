@@ -1,0 +1,95 @@
+body {
+  text-align: center;
+  background: url("img/206-2063294_lights-colorful-background-wallpapers-wallpaper.jpg");
+}
+
+h1 {
+  background-color: rgb(236, 129, 7);
+  text-align: center;
+  margin-bottom: auto;
+  width: 600px;
+  margin: 25px auto;
+  border-radius: 25px;
+}
+
+canvas {
+  border: 5px solid white;
+}
+
+.button {
+  position: absolute;
+  top: 860px;
+  right: 270px;
+  background-color: darkolivegreen;
+  color: white;
+}
+
+.button1 {
+  position: absolute;
+  top: 860px;
+  right: 410px;
+  background-color: limegreen;
+  color: white;
+}
+
+.button2 {
+  position: absolute;
+  top: 860px;
+  right: 580px;
+  background-color: orange;
+  color: white;
+}
+
+.button3 {
+  position: absolute;
+  top: 860px;
+  right: 780px;
+  background-color: darkcyan;
+  color: white;
+}
+
+.button4 {
+  position: absolute;
+  top: 860px;
+  right: 130px;
+  background-color: purple;
+  color: white;
+}
+
+.button5 {
+  position: absolute;
+  top: 860px;
+  right: 980px;
+  background-color: blue;
+  color: white;
+}
+
+.reset {
+  position: absolute;
+  top: 105px;
+  right: 500px;
+  width: 50px;
+  height: 50px;
+}
+
+span {
+  color: white;
+  border: 1px solid #000000;
+  background-color: blue;
+}
+
+h3 {
+  position: absolute;
+  top: 400px;
+  right: 16px;
+  background-color: rgb(236, 129, 7);
+  border-radius: 25px;
+}
+
+h4 {
+  position: absolute;
+  top: 450px;
+  right: 35px;
+  background-color: rgb(236, 129, 7);
+  border-radius: 25px;
+}
